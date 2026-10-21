@@ -1,0 +1,14 @@
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\bin\Debug\net10.0\Exercise5.exe
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\bin\Debug\net10.0\Exercise5.deps.json
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\bin\Debug\net10.0\Exercise5.runtimeconfig.json
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\bin\Debug\net10.0\Exercise5.dll
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\bin\Debug\net10.0\Exercise5.pdb
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfo.cs
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.dll
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\refint\Exercise5.dll
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.pdb
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\Exercise5.genruntimeconfig.cache
+C:\Users\erikm\Skola\Kurser\Programmering_grund\Vecka6\Ovningar\JSON-Fil+Felhantering-Hard\Exercise5\obj\Debug\net10.0\ref\Exercise5.dll
